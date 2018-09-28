@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/CaiJingLong/ios_image_selector"
 
-  s.license      = "MIT (example)"
+  s.license      = { :type => 'MIT', :file => 'LICENSE'}
 
   s.author             = { "Caijinglong" => "cjl_spy@163.com" }
 
